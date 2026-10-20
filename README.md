@@ -1,5 +1,4 @@
-# from-zero
-<!DOCTYPE html>
+# BELAJAR MEMBUAT WEB DARI ZERO
 <html>
   <head>
     <title>seputar jaringan komputer dan internet</title>
